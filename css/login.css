@@ -1,0 +1,13 @@
+body{
+    background-color: khaki;
+    background-image: url("afro.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px;
+}
+.un{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
