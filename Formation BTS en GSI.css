@@ -1,0 +1,26 @@
+body {
+    background-color: fuchsia;
+}
+.titre {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.menu {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:link {
+    color: white;
+}
+a:visited {
+     color: white;
+}
+a:hover {
+    color: blue;
+    font-size: 25px;
+}
+.bouton {
+    text-align: right;
+    float: right;
+}

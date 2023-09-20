@@ -1,0 +1,26 @@
+body {
+     background-color: violet;
+     margin: 0px;
+     padding: 0px;
+}
+#texte {
+    text-align: center;
+     font-size: 20px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: #131311;
+     float: left;
+     position: absolute;
+     left: 50px;
+     right: 50px;  
+}
+#logo2 {
+    float: right;
+
+}
+#logo1 {
+    float: left;
+}
+img {
+    height: 150px;
+    width: 260px;
+}

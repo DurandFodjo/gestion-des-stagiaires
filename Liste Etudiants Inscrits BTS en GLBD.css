@@ -1,0 +1,14 @@
+body {
+    background-color: hotpink;
+}
+.titre {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.menu {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+
+}

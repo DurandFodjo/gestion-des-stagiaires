@@ -1,0 +1,21 @@
+body {
+    background-color: thistle;
+    margin: 25px;
+    padding: 25px;
+}
+.image {
+    float: left;
+}
+img {
+    height: 400px;
+    width: 460px;
+}
+.un {
+    float: right;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.formulaire {
+    float: right;
+}
